@@ -15,3 +15,4 @@ Maintain a list of suppliers and their contact details.
 
 🔍 Advanced SQL Queries
 Includes practical queries with JOIN, GROUP BY, ROLLUP, SUBQUERIES, and more.
+![ER Diagram ](https://github.com/user-attachments/assets/27be7578-3e40-4b2e-9c2d-150258568fd2)
